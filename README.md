@@ -23,6 +23,6 @@ Aqui estão as ferramentas e os conceitos avançados que foram aplicados nos pro
 | Ferramenta | Descrição | Badge |
 | :--- | :--- | :--- |
 | **Linguagem C** | Padrão ISO 99 para controle de baixo nível. | ![C](https://img.shields.io/badge/C_(Standard_99)-00599C?style=flat-square&logo=c&logoColor=white) |
-| **GDB** | Compilador padrão para otimização de código. | ![GDB](https://img.shields.io/badge/GCC_Compiler-D22128?style=flat-square&logo=gnu&logoColor=white) |
+| **GDB** | Compilador padrão para otimização de código. | ![Gdb](https://img.shields.io/badge/Gdb-D22128?style=flat-square&logo=gnu&logoColor=white) |
 | **VS Code** | IDE utilizada para desenvolvimento e debugging. | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
 
